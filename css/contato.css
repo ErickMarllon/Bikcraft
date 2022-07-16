@@ -1,0 +1,92 @@
+:root{
+    --font1:Arial, Helvetica, sans-serif;
+    --font2: Georgia, 'Times New Roman', serif;
+    --cor1:#ffffff;
+    --cor2:#FeC63e;
+    --cor3:#000000;
+    --cor4:#1d1d1d;
+}
+.interna_contato{
+    background: url("../img/header/bg-contato.jpg") no-repeat center;
+    background-size: cover;
+}
+.contato{
+    padding: 60px 0;
+}
+.contato_form{
+    padding-right: 60px;
+}
+.contato_form label{
+    display: block;
+    font-family: var(--font2);
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 4px;
+}
+.contato_form input{
+    display: block;
+    width: 100%;
+    border: 4px solid var(--cor2);
+    background: none;
+    padding: 7px 10px;
+    margin-bottom:15px ;
+    outline: none;
+    font-size: 14px;
+    font-family: var(--font2);
+}
+.contato_form textarea{
+
+    display: block;
+    width: 100%;
+    height: 120px;
+    border: 4px solid var(--cor2);
+    background: none;
+    padding: 7px 10px;
+    margin-bottom:20px ;
+    outline: none;
+    font-size: 14px;
+    font-family: var(--font2);
+    
+}
+.contato_form button{
+    padding: 8px 40px;
+    background: none;
+}
+
+.contato_dados h3{
+    font-size: 18px;
+    text-transform: uppercase;
+    color: var(--cor2);
+    line-height: 25px;
+    font-weight: bold;
+
+}
+.contato_dados p{
+    display: block;
+    font-size: 18px;
+    line-height: 30px;
+    font-family: var(--font2);
+}
+.contato_dados p:nth-of-type(even){
+    margin-bottom: 30px;
+}
+
+.contato_dados ul{
+    margin-top: 10px;
+}
+.contato_dados ul li{
+    display: inline-block;
+    margin-right: 10px;
+}
+.contato_dados ul li a{
+    display: block;
+    border: 3px solid var(--cor2);
+    padding: 10px;
+
+}
+.contato_dados ul li a:hover{
+    border-color: var(--cor3);
+}
+.contato_mapa{
+    margin-bottom: 60px;
+}

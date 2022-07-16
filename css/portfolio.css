@@ -1,0 +1,37 @@
+:root{
+    --font1:Arial, Helvetica, sans-serif;
+    --font2: Georgia, "Times New Roman", serif;
+    --cor1:#ffffff;
+    --cor2:#FeC63e;
+    --cor3:#000000;
+    --cor4:#1d1d1d;
+}
+.interna_portfolio{
+    background: url("../img/header/bg-portfolio.jpg") no-repeat center;
+    background-size: cover;
+}
+.portfolio_lista{
+padding-top: 60px;
+}
+.quote_clientes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 60px 0;
+    max-width: 470px;
+    margin: 0 auto;
+}
+.quote_clientes p{
+    text-align: center;
+    font-family: var(--font2);
+    font-size: 18px;
+    font-style: italic;
+    line-height: 25px;
+}
+.quote_clientes cite{
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    float: right;
+    font-style: normal;
+}
