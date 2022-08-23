@@ -1,11 +1,15 @@
-# Bikcraft
-## Projeto Origamid
-<p> Nesse projeto pude aplicar um pouco dos conhecimentos que obtive em HTML5, CSS3, JavaScript e Figma. acesse o projeto pelo link abaixo.
+# Projeto Bikcraft
+
+<p> Nesse projeto pude aplicar um pouco dos conhecimentos que obtive durante o curso de Desenvolvedor Web da Origamid.
+<p> Tecnologias utilizadas nesse projeto: HTML5, CSS3, JavaScript e Figma. 
+<p> Acesse o projeto pelo link abaixo.
 
 [Bikcraft](https://erickmarllon.github.io/Bikcraft/)
-  <p> ou 
-  <p> https://erickmarllon.github.io/Bikcraft/
+<p> ou
+<p> https://erickmarllon.github.io/Bikcraft/
 
 ## Protótipo do site
-
-  https://www.figma.com/file/Q5vBKZIX04JSpVsD6DuAK8/Bikcraft-Pronto?node-id=0%3A1
+    
+[Protótipo](https://www.figma.com/file/Q5vBKZIX04JSpVsD6DuAK8/Bikcraft-Pronto?node-id=0%3A1)
+<p> ou    
+<p> https://www.figma.com/file/Q5vBKZIX04JSpVsD6DuAK8/Bikcraft-Pronto?node-id=0%3A1
