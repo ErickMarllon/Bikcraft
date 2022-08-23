@@ -8,8 +8,7 @@
 <p> ou
 <p> https://erickmarllon.github.io/Bikcraft/
 
-## Protótipo do site
-    
+## Protótipo do site    
 [Protótipo](https://www.figma.com/file/Q5vBKZIX04JSpVsD6DuAK8/Bikcraft-Pronto?node-id=0%3A1)
 <p> ou    
 <p> https://www.figma.com/file/Q5vBKZIX04JSpVsD6DuAK8/Bikcraft-Pronto?node-id=0%3A1
